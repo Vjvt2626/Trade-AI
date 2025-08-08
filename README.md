@@ -1,1 +1,1 @@
-
+Develop an advanced automated trading system leveraging AI-powered analysis for optimal decision-making The system should include robust data integration real-time market analysis and the ability to execute options trading strategies Key features include backtesting paper trading and live trading capabilities The system should be secure and capable of handling real-time market data efficiently
